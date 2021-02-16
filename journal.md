@@ -505,16 +505,223 @@ I'm going to be kind to myself. I'm looking forward to studying algorithms today
 
 The batched internet searches header is great. I'm confident I won't lose the info, so I don't feel pressure to disrupt myself at this instant. I know I can come back to it at a better time. 
 
+I have two options:
+- slog forward
+  - it would be faster if I could do it. But, I haven't made progress for a while. That deserves a new approach
+- restart without classes
+  - I like this because it will be easier to add classes by starting from a working implementation
+
+Feeling the frustration and urge to assuage it. I'll try a walk. Feeling less stressed now. And, I have a new idea to try. Nice!
+
+I'm going to turn on wifi to watch a video. No need to keep banging my head against a wall. instantly fail to stay on task
 ## _blank_
 
 ## Iron Sharpens Iron
 
 - Goals:
+  - 6 hours study (~2-8pm)
+  - film 1 heapsort leetcode
+  - 1 heapsort flashcard
 
 - Schedule:
+  - 3-4.5: heapsort impl.
+    - miss, but making decent progress
+  - 4.5-6: heapsort leetcode
+    - miss, got distracted and heapsort taking longer than expected
+  - 6-7: film leetcode
+  - 7-9: upto dfs
 
 ## Batched Internet Searches
 - check slack: do I need to do canvas professional training course?
+
+## Recap
+
+
+# 02-05-21
+bad start to the day. I got in a swim and coffee, but haven't started working yet by 2.5pm.
+
+I need to build a habit where I start at the same time every day. That means I need a consistent bedtime routine. That won't happen while living with other people. Unless I get lucky to find a quiet shared room.
+
+All this is no longer an issue when I get a salary. My fastest path to something I'm happy with is leetcode. I have ~75 solved. I need to get to 150. 
+
+## _blank_
+
+## Iron Sharpens Iron
+
+- Goals:
+  - finish heapsort impl
+  - film 1 leetcode
+
+- Schedule:
+  - 2.5-4: heapsort impl.
+
+## Batched Internet Searches
+
+## Recap
+
+
+
+
+I'm feeling the resistance today. 
+
+I tried meditating and it was great practice fighting the resistance. My mind would wander, then I would come back to center.
+
+This process of being kind and recovering from distraction will help during normal work. I'm going to make meditation standard practice.
+
+Missed on heapsort impl. Felt the resistance and didn't bounce back. I didn't try any of my strategies:
+- take a walk
+- meditate
+- switc
+
+I guess I switched subjects, but I was distracted by crypto/twitter. I need to enforce no wifi times and be quick to meditate/walk to break out of an anxiety negative spiral.
+
+I'm pushing film leetcode for the day to continue working on heapsort implementation. 
+
+## _blank_
+
+## 3 things I'm Grateful for
+- opportunity to get to know ethan
+- opportunity to overcome amazon challenge. I will be so proud once I do.
+- opportunity to build my way to freedom. Thank god for my ability to learn new things. I will be incredibly proud once I accomplish this. 
+
+## Goals
+- finish heap sort impl
+- film 1 leetcode
+- move "why megan lost respect" to the journal
++ von's run
+
+## Schedule
+
+## Batched Internet Searches
+
+## Recap
+
+
+
+
+# 02-11-21
+
+## _blank_
+
+## 3 things I'm Grateful for
+- The opportunity to make a difference in bootcamp students lives. I can help them get new jobs and increase salaries
+- the opportunity to overcome my health issues. It's a battle, but I will be so proud when I win
+- 
+
+## Goals
+- meditate
+
+## Schedule
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 02-12-21
+
+# 02-13-21
+meditating helped, but I need to strictly turn off wifi.
+
+frustrating as I didn't make the progress I liked. My continuation was ok, but could be better. A few instances where I was distracted, but could have gone for a walk/meditated, etc.
+
+## _blank_
+
+## 3 things I'm Grateful for
+- opportunity to overcome health issues (schedule doctor's visit)
+- opportunity to work to overcome amazon interview
+- opportunity to benefit others and gain respect through a course
+
+## Goals
+- meditate
+- finish heapsort impl.
+- film 1 leetcode
+
+## Schedule
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 02-14-21
+I feel bad about being too harsh with Ethan. I'll look for an opportunity to apologize.
+I did this and I feel better. Is this a sign of improvement on managing fact/feeling lenses when interacting with people.
+
+I feel good after meditating. It's training me to reduce falling off concentration tracks. This is an essential skill for studying. 
+
+Having a rough go. I'm feeling anxiety spike from many previous failed attempts. It seems worthwhile skipping heapsort and coming back to it later.
+
+
+## 3 things I'm Grateful for
+- opportunity to work on switching between emotional support/problem-solving modes with friends
+- opportunity to rebuild long term friendship with rob
+- opportunity to overcome health issues
+- opportunity to build a kid-possible future
+
+## Goals
++ meditate
+- finish heapsort
+- film 1 leetcode
+- 4 hours deep work
+## Schedule
+- 11-2: heapsort impl
+  - miss
+- 2-4:  film 1 leetcode
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 02-16-21
+A few issues have led to my current stalemate:
+- stubbornness on giving up
+- learned anxiety for this problem: I fail to solve it, then I dread that I will fail to solve it on subsequent days
+
+I think I've made a breakthrough. I'll give it 40 min. today then move on.
+
+It's great to see rob again. He seems to be doing well. I'm happy that he's happy. 
+
+I'm close to being back in the US. I need to buckle down and nail 50 more leetcode's. 
+
+I'm letting others down when I'm not my best version. Rob was relieved to hear of my financial stability. I can see that it pained him to grow apart from a long-term friend. 
+
+Struggling a bit to stick to plan. Feeling the urge to keep going, but it will derail all the other tasks.
+
+
+## 3 things I'm Grateful for
+- opportunity to overcome past hardship and build strong friendship with Rob
+- opportunity to manifest my own future via programming
+- opportunity to overcome health issues
+
+## Goals
+- meditate (mid-day)
+- last heapsort attempt
++ move on to next search algo
++ finish bfs
+- add 2 flashcards and study
+  - didn't get it, but substituted with a great strategy pivot. Found a python interview problem book. This will remove translation requirements for solutions in other languages. 
+- shopping
+
+
+shopping:
+- coffee
+- big bag crawler gummys
+- curry
+  - chicken thighs
+  - curry paste
+  - jalapenos
+  - peppers
+  - onions
+  - rice vinegar
+  - brown rice
+  - milk
+  - sugar
+- z?
+## Schedule
+
+## Batched Internet Searches
 
 ## Recap
 
