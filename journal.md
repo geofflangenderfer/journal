@@ -1337,3 +1337,37 @@ Some things I can do:
 
 ## Recap
 
+# 03-08-21
+I've been bumming around for a week and I'm getting tired of it. It's to harness anger. I promise myself I will not be lamb. I will do the following for 30 days. No excuses:
+- same bedtime
+- carnivore + healthy fat source - sugar
+- 5 hours deep work per day
+- 3 gym workouts per week
+
+Hey man, I want to tell you about my 30 day goals because it will help me stay accountable:
+- same bedtime
+- carnivore + healthy fat source + no sugar
+- 5 hours deep work per day
+- 3 gym workouts per week
+
+I think these goals point my sailboat to an Amazon SWE harbor. 
+
+I keep thinking about your dream of close proximity. I want to get closer to that. 
+
+## 3 things I'm Grateful for
+
+
+## Goals
+- wake up at 10am
+- go workout 
+- shower
+- meditate
+- 5 hours deep work
+- squats or deadlifts or press
+- strictly audiobook entertainment
+
+## Schedule
+
+## Batched Internet Searches
+
+## Recap
