@@ -1487,7 +1487,13 @@ went on caffeine run. And, returned without a plan to get back on track. A good 
   10-11: audiobook
      11: bedtime
 
-again, I got distr
+again, I got distracted in a twitter thread. I'm going for the no-wifi-til-goals-completed strategy:
+- plan night before
+    - decide on leetcode/epi problems to complete
+- get offline docs (will iterate towards this)
+- in morning, open planned problems and shut off wifi til daily goals completed
+
+I need to stop giving up on the day if the 1st half didn't go well. There's much to be gained from salvaging some time.
 
 ## Batched Internet Searches
 
@@ -1501,6 +1507,248 @@ with space from a don't procrastinate decision, I can be successful. When distra
 - plan next day the night before
 - download all required info 
 - wifi off until daily goals completed
+
+## Recap
+Ok, tomorrow is the start of no-wifi-til-goal-completion strat. Tonight, I need to grab everything I may need because I won't have internet all day. 
+
+## Goals
+- 5 hours deep work
+- 4 leetcode
+- 1 epi
+- 11pm bedtime
+- no sugar
+- meditation
+
+
+## Schedule
+
+   9-9.5: meditate
+9.5-10.5: leetcode 1
+ 10.5-11: solution
+   11-12: leetcode 2
+ 12-12.5: solution
+12.5-1.5: leetcode 3
+   1.5-2: solution
+     2-3: leetcode 4
+   3-3.5: solution
+   3.5-4: meditate 
+     4-5: epi 1
+   5-5.5: solution
+7.5-10.5: class; add dfs/bfs/insertion sort flashcards; 1 flashcards round
+      11: bedtime
+
+
+
+# 03-11-21
+Ready to start the no-wifi-til-goal-completion strategy. In between where I'm at and the impact I want to have is all the work. I need to focus daily to compound over time. Compounding isn't limited to finance. That's a good tweet.
+
+FOrgot to download solutions. WIll turn on internet to grab them then turn it directly off.
+
+
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build a family with a Amazon salary as foundation
+- opportunity to overcome health issues (skin, hemhorrhoids, warts)
+
+## Goals
++ meditate
+- 5 hours deep work 
+- 4 leetcodes 
+- 1 epi
+- get something done during class
+
+## Schedule & Distraction Log
+
+   9-9.5: meditate
+9.5-10.5: leetcode 1
+ 10.5-11: solution
+   11-12: leetcode 2
+ 12-12.5: solution
+12.5-1.5: leetcode 3
+   1.5-2: solution
+     2-3: leetcode 4
+   3-3.5: solution
+   3.5-4: meditate 
+     4-5: epi 1
+   5-5.5: solution
+7.5-10.5: class; add dfs/bfs/insertion sort flashcards; 1 flashcards round
+      11: bedtime
+
+### revision 
+wakeup/meditation went over a bit 
+
+     9-10: meditate
+    10-11: leetcode 1
+  11-11.5: solution
+11.5-12.5: leetcode 2
+   12.5-1: solution
+      1-2: leetcode 3
+    2-2.5: solution
+  2.5-3.5: leetcode 4
+    3.5-4: solution
+    4-4.5: meditate
+  4.5-5.5: epi 1
+    5.5-6: solution
+    6-7.5: dinner
+ 7.5-10.5: class; add dfs/bfs/insertion sort flashcards; 1 flashcards round
+       11: bedtime
+### revision
+poop, cleaner, twitter/youtube rabbit hole, poop again
+These threw me off. But, let's salvage the day. 
+
+     4-5: leetcode 1
+   5-5.5: solution
+ 5.5-6.5: leetcode 2
+   6.5-7: solution
+   7-7.5: dinner
+7.5-10.5: class; add dfs/bfs/insertion sort flashcards; 1 flashcards round
+      11: bedtime
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-12-21
+I've been struggling the last few days, but I'll get back on track. 
+
+It will make it all the sweeter when I do. 
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build a family foundation from Amazon salary
+- opportunity to overcome health issues (skin in bad shape, hemorrhoids, warts)
+
+## Goals
+- no sugar
+- meditate
+- 5 hours study 
+- finish ocaml intro
+
+## Schedule & Distraction Log
+10-12: ocaml
+12-12.5: walk
+12.5-
+
+### revision
+I'm going to free flow for a bit. Get in the groove.
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-13-21
+I like experimenting. I like doign things I feel like doing. I can't always do that. But never is not an option. I'll keep going with scala today.
+
+Stress definitely makes my skin worse. When I'm stressed, I eat worse and have generally worse habits. 
+
+## 3 things I'm Grateful for
+- the opportunity to be a light to friends and family
+- the opportunity to build a family foundation on an amazon salary
+- the opportunity to overcome health issue
+
+## Goals
+- meditate
+- have fun with scala leetcode
+
+## Schedule & Distraction Log
+1-4:     scala leetcode
+4-4.5:   meditate
+4.5-8.5: scala leetcode
+
+## Batched Internet Searches
+
+## Recap
+I'm disappointed with the work I've done this week. My short-term desire not to study is less than my long-term.
+
+In the past, I've just had to suck it up and grit through it. I think I will need to do the same now. 
+
+I can get everything else in line so my stress doesn't spiral out of control:
+- diet
+- exercise
+- sleep schedule
+- meditation
+
+## Goals
+- 4 hours study
+- workout
+- meditate
+- no sugar
+- 11pm bed
+
+
+These things make me more resilient to stress.
+
+I feel pressure. I'm 32. The dating pool is shrinking. I will start having to fight agist discrimination. It's imperative that I get a foothold in industry soon.
+
+At the same time, I need to take things day by day. Hour by hour. Like tom brady. That's how you avoid getting overwhelmed. 
+
+
+It's time to activate insane mode. In college, I woke up everyday at 7am. I worked out. I studied daily. I got good grades. 
+
+I can do that again. 
+
+
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+
+# 03-14-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
 
 ## Recap
 
