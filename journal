@@ -31,7 +31,7 @@ then
   echo -e "\n## Goals" >> $journal_file_location
   echo -e "\n- meditate" >> $journal_file_location
   echo -e "\n## Schedule & Distraction Log" >> $journal_file_location
-  echo -e "\n#### Goal Breakdown" >> $journal_file_location
+  echo -e "\n### Goal Breakdown" >> $journal_file_location
   echo -e "\n## Batched Internet Searches" >> $journal_file_location
   echo -e "\n## Recap\n" >> $journal_file_location
 fi

@@ -2823,6 +2823,7 @@ A combination of:
 
 Seems to bring out the best in me.
 
+# 04-08-21
 Let's continue the success from yesterday today. First step is setting up a schedule. Then ruthlessly executing on it. You got this dawg.
 ## CBT
 
@@ -2863,14 +2864,16 @@ Let's continue the success from yesterday today. First step is setting up a sche
 6.5-9     : class; 1 leetcode
 9-10      : dinner
 
-#### Goal Breakdown
+### Goal Breakdown
 I'm feeling anxious about starting. I've caught myself before Youtubing. Now, let's break down this mock phone screen to more manageable chunks:
 - do 1 leetcode easy
 - hop into mock phone screen
 
 Nice job dude :)
+
 ## Batched Internet Searches
 
 ## Recap
+
 
 
