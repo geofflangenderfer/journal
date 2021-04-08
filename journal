@@ -19,18 +19,19 @@ if [ "$todays_date_count" -eq 0 ]
 then
   # journal template
   echo -e "\n# $(date +%m-%d-%y)" >> $journal_file_location
-echo -e "\n## CBT" >> $journal_file_location
-echo -e "\n### Biased Thought" >> $journal_file_location
-echo -e "\n#### Cognitive Distortions" >> $journal_file_location
-echo -e "\n##### mental filter" >> $journal_file_location
-echo -e "\n##### overgeneralization" >> $journal_file_location
-echo -e "\n##### catastrophizing" >> $journal_file_location
-echo -e "\n##### minimizing the positive" >> $journal_file_location
-echo -e "\n### Reworded Thought" >> $journal_file_location
+  echo -e "\n## CBT" >> $journal_file_location
+  echo -e "\n### Biased Thought" >> $journal_file_location
+  echo -e "\n#### Cognitive Distortions" >> $journal_file_location
+  echo -e "\n##### mental filter" >> $journal_file_location
+  echo -e "\n##### overgeneralization" >> $journal_file_location
+  echo -e "\n##### catastrophizing" >> $journal_file_location
+  echo -e "\n##### minimizing the positive" >> $journal_file_location
+  echo -e "\n### Reworded Thought" >> $journal_file_location
   echo -e "\n## 3 things I'm Grateful for" >> $journal_file_location
   echo -e "\n## Goals" >> $journal_file_location
   echo -e "\n- meditate" >> $journal_file_location
   echo -e "\n## Schedule & Distraction Log" >> $journal_file_location
+  echo -e "\n#### Goal Breakdown" >> $journal_file_location
   echo -e "\n## Batched Internet Searches" >> $journal_file_location
   echo -e "\n## Recap\n" >> $journal_file_location
 fi

@@ -1752,3 +1752,1125 @@ I can do that again.
 
 ## Recap
 
+
+
+# 03-16-21
+Feeling a bit iffy. I'm not optimistic for the days studying. How can I excite myself and my state?
+
+Visualizing may help with this by priming my brain and showing it what's possible. 
+
+Also, meditating should calm me down. 
+
+Plan:
+- cbt - 15 min
+- meditation - 10 min
+- visualization - 10 min
+
+I'm worried about my skin. This is the worst it has been. 
+
+## CBT
+Any weird ideas I need to work through?
+- The unpleasant thoughts that come in my head make me a deviant. It shows that I'm potentially harmful
+- I'll never accomplish my goals. I deserve to be forgotten, in the dirt
+- There's no point studying. I'm bound to fail.
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+- opportunity to overcome health issues
+- opportunity to be a light to friends and family
+- opportunity to overcome bad habits and build better ones
+
+## Goals
+
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-18-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-19-21
+
+## CBT
+- If I start down an internet tangent, i'm not strong enough to get back on task
+- I'm going to die anyway. What's the point of working hard?
+- No one cares about me
+- THere's no point. I have cancer and will die by 50 like uncle/dad.
+- I'm scared of failing. It's gonna hurt when I start, fail, and feel like an idiot.
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-21-21
+
+## CBT
+
+### Biased Thought
+- there's no point in working hard. I have no impact on the world.
+
+#### Cognitive Distortions
+
+##### mental filter
+I only see what's around me. There is no one I care about close to me, so it seems like I'm not having an impact. This is a distortion as evidenced by the impact on Rob in a small period of time.
+
+##### overgeneralization
+
+##### all or nothing thinking
+I'm not having the impact I'd like to on others, but it doesn't mean I'm having zero impact.
+
+
+##### fortune-telling
+My past trauma conditions me to think I'll have future failure. This discourages me from working today. 
+
+##### jumping to conclusions
+I'm jumping to the conclusion no one cares about me or is inspired by me. I don't know what's in their head.
+
+##### personalization
+I assume when I'm not noticed, it's because others consider me and discard me. In reality, they probably never think of me.
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-23-21
+woke up this morning and:
+- went for run
+- showered
+- drank coffee on patio
+
+I believe this helped me get started quicker. I'll continue for a week.
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+- opportunity to build a family foundation on Amazon salary
+- opportunity to be a light for friends and family
+- opportunity to overcome heatlh issues
+## Goals
+- 5 leetcode
+- meditate
+
+## Schedule & Distraction Log
+2.5-3:   leetcode 2
+3-3.5:   solution
+3.5-4.5: leetcode 3
+4.5-5:   solution
+5-6:     leetcode 4
+5-5.5:   solution
+5.5-6.5: leetcode 5
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-24-21
+I'm feeling invigorated by the Amazon challenge. A recruiter reached out and wanted me to interview. This is the 3rd in the last year. 
+
+I want to get to at least 50 mediums before I tackle the interview.
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family. Paul is going through a tough time. I would love the opportunity to pay back his past kindness.
+- opportunity to build family foundation on Amazon salary
+- opportunity to overcome health issues
+
+## Goals
+- 6.5 hours deep work
+- 2 leetcode
+- 3 epi
+
+- meditate
+
+## Schedule & Distraction Log
+10.5-11.5 :  leetcode 1
+11.5-12   :  solution
+12-1      :  leetcode 2
+1-1.5     :  solution
+1.5-2.5   :  epi 1
+2.5-3     :  solution
+3-4       :  epi 2
+4-4.5     :  solution
+4.5-5.5   :  epi 2
+5.5-6     :  solution
+6-7       :  gym
+
+### revision
+felt the pain from failing a question. It created a couple urges:
+- eat sweet/salty
+- quick dopamine: twitter/youtube/tinder
+
+I felt much better after eating an avocado and moving to a new environment.
+The key, as pointed out in the habit book, is:
+- recognize triggers and undesired actions
+- replace undesired actions with something better
+
+In this case I:
+- recognized anger, adrenaline, increased heartrate
+- recognized desire for sugar/salt/dopamine
+- replaced these desires with avocado/environment change
+
+3.5-4.5 : epi 1
+4.5-5   : solution
+5-6     : epi 2
+6-6.5   : solution
+6.5-7.5 : epi 2
+7.5-8   : solution
+8-9     : gym
+9-10    : groceries
+10-11   : dinner
+11.5    : bedtime
+
+A bit distracted with twitter.
+
+I need to move forward with no wifi periods. This requires planning the day the night before. I'll add that to the schedule.
+
+
+### revision
+I'm falling asleep. I'm going to move up dinner, gym, groceries now. I should be ready to hit the bed early tonight. 
+
+4-4.75 : dinner
+4.75-6 : gym
+6-7    : groceries
+7-7.5  : shower
+7.5-8  : plan next day
+8-9    : epi 1 (optional)
+8-9    : solution (optional)
+9-10   : audiobook
+10-11  : bedtime
+          
+          
+          
+          
+## Batchedsolution Internet Searches
+
+## Recap
+A decent day. Really feeling better with the diet chagne. Some weird stuff with my hands. Will monitor. 
+
+8-9       : morning routine (jog, brush, shower, coffe)
+9-10      : leetcode 1
+10-10.5   : solution
+10.5-11.5 : epi 1
+11.5-12.5 : solution
+12.5-1.5  : epi 2
+1.5-2     : solution
+2-3       : epi 3
+3-3.5     : solution
+3.5-4.5   : epi 4
+4.5-5     : solution
+5-6       : workout
+6-6.5     : grab dinner
+6.5-9.5   : class; 1 leetcode
+9.5-10.5  : audiobook
+11        : bedtime
+
+
+# 03-25-21
+I got a good start to the day:
+- jog
+- coffee
+- shower
+- quick leetcode start
+
+Feeling the pain of leetcode failure at the moment. I need to remember that this is normal, as Richard Feynman says. When you're struggling to connect the dots, you feel like a chimp. Accept that it will be that way. 
+
+
+
+## CBT
+### Biased Thought
+- I'm too dumb to work at Amazon
+
+#### Cognitive Distortions
+
+##### mental filter
+- I'm filtering out my experience solving > 100 other leetcode problems. They were easies, but mediums are built upon easies. With a few more insights, a medium becomes an easy.
+##### overgeneralization
+
+
+##### catastrophizing
+- I'm thinking of the worst case outcome. This will be a long journey to leetcode mastery. With many more instances of feeling dumb. Then I'll crush the interview.
+##### minimizing the positive
+- I'm discounting previously solved problems
+### Reworded Thought
+- I'm struggling on mediums right now. But, I struggled with easies when I started those also. With time and practice, mediums will become simple like easies. I need to trust the process. 
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build a family foundation on Amazon salary. I would be a great father.
+- opportunity to overcome health issues. The skin and warts stuff are scary. But, I can give myself a shot to fight them off with exercise/diet/stress-management
+
+## Goals
+- 6 hours deep work
+- 2 epis
+- meditate
+
+## Schedule & Distraction Log
+8-9       : morning routine (jog, brush, shower, coffee)
+9-10      : leetcode 1
+10-10.5   : solution
+10.5-11.5 : epi 1
+11.5-12.5 : solution
+12.5-1.5  : epi 2
+1.5-2     : solution
+2-3       : epi 3
+3-3.5     : solution
+3.5-4.5   : epi 4
+4.5-5     : solution
+5-6       : workout
+6-6.5     : grab dinner
+6.5-9.5   : class; 1 leetcode
+9.5-10.5  : audiobook
+11        : bedtime
+
+### revision
+I got up a bit late, but kept going
+a bit frustrated with leetcode, but kept going
+
+11.5-12.5 : epi 1
+12.5-1    : solution
+1.5-2.5   : epi 2
+2.5-3     : solution
+3-4       : epi 3
+4-4.5     : solution
+4.5-5.5   : workout
+5.5-6     : grab dinner
+6-6.5     : shower
+6.5-9.5   : class; 1 leetcode
+9.5-10.5  : brush teeth; audiobook
+11        : bedtime
+            
+### revision
+Got a bit off track with another leetcode problem
+12-1     : epi 1
+1-1.5    : solution
+1.5-2.5  : epi 2
+2.5-3    : solution
+3-4      : epi 3
+4-4.5    : solution
+4.5-5.5  : workout
+5.5-6    : grab dinner
+6-6.5    : shower
+6.5-9.5  : class; 1 leetcode
+9.5-10.5 : brush teeth; audiobook
+11       : bedtime
+### revision
+went down rabbit hole about automating this calendar stuff. Damn it.            
+
+12-1     : 
+1-1.5    : 
+1.5-2.5  : epi 1
+2.5-3    : solution
+3-4      : epi 2
+4-4.5    : solution
+4.5-5.5  : workout
+5.5-6    : grab dinner
+6-6.5    : shower
+6.5-9.5  : class; 1 leetcode
+9.5-10.5 : brush teeth; audiobook
+11       : bedtime
+                                   
+                                   
+## Batched Internet Searches
+- fzf for command line history
+- how do I submit youtube translations? (remember not to fall down automation rabbit hole)
+## Recap
+I finished the first epi, but I had to look at the answer. I'm fairly confident I can solve similar problems in the future. But, I need practice and a test to confirm. I feel like this tree chapter is huge. Might be worth it to do all problems.
+
+It would be fun to schedule 30 min/day of translating ufcespanol
+
+
+Really liking no wifi
+
+Rough go with epi today. I didn't get either answer, so I needed to check solution. 
+
+This is an indicator I need more practice with binary trees. One strategy:
+- do ~4-5 leetcode binary problems
+- come back to epi problems
+
+### Results
+- 2 epi (looked at solution)
+- started early
+- minimal distraction. Wifi off worked very well.
+- gym with time to spare
+- time-blocking seems to help me get more done with the same time available
+- got frustrated, recognized it, and responded constructively 2x:
+    - went for a walk
+    - took a nap
+
+Pretty solid day. I'll copy today's schedule for tomorrow
+
+8-9       : morning routine (jog, brush, shower, coffee)
+9-10      : leetcode 1
+10-10.5   : solution
+10.5-11.5 : epi 1
+11.5-12.5 : solution
+12.5-1.5  : epi 2
+1.5-2     : solution
+2-3       : epi 3
+3-3.5     : solution
+3.5-4.5   : epi 4
+4.5-5     : solution
+5-6       : workout
+6-6.5     : grab dinner
+6.5-9.5   : class; 1 leetcode
+9.5-10.5  : audiobook
+10.5-11   : brush teeth
+11        : bedtime
+
+### revision
+I got up a bit late, but kept going
+a bit frustrated with leetcode, but kept going
+
+11.5-12.5 : epi 1
+12.5-1    : solution
+1.5-2.5   : epi 2
+2.5-3     : solution
+3-4       : epi 3
+4-4.5     : solution
+4.5-5.5   : workout
+5.5-6     : grab dinner
+6-6.5     : shower
+6.5-9.5   : class; 1 leetcode
+9.5-10.5  : brush teeth; audiobook
+11        : bedtime
+            
+### revision
+Got a bit off track with another leetcode problem
+12-1     : epi 1
+1-1.5    : solution
+1.5-2.5  : epi 2
+2.5-3    : solution
+3-4      : epi 3
+4-4.5    : solution
+4.5-5.5  : workout
+5.5-6    : grab dinner
+6-6.5    : shower
+6.5-9.5  : class; 1 leetcode
+9.5-10.5 : brush teeth; audiobook
+11       : bedtime
+### revision
+went down rabbit hole about automating this calendar stuff. Damn it.            
+
+12-1     : 
+1-1.5    : 
+1.5-2.5  : epi 1
+2.5-3    : solution
+3-4      : epi 2
+4-4.5    : solution
+4.5-5.5  : workout
+5.5-6    : grab dinner
+6-6.5    : shower
+6.5-9.5  : class; 1 leetcode
+9.5-10.5 : brush teeth; audiobook
+11       : bedtime
+                                   
+                                   
+## Batched Internet Searches
+- fzf for command line history
+- how do I submit youtube translations? (remember not to fall down automation rabbit hole)
+## Recap
+I finished the first epi, but I had to look at the answer. I'm fairly confident I can solve similar problems in the future. But, I need practice and a test to confirm. I feel like this tree chapter is huge. Might be worth it to do all problems.
+
+It would be fun to schedule 30 min/day of translating ufcespanol
+
+
+Really liking no wifi
+
+Rough go with epi today. I didn't get either answer, so I needed to check solution. 
+
+This is an indicator I need more practice with binary trees. One strategy:
+- do ~4-5 leetcode binary problems
+- come back to epi problems
+
+### Results
+- 2 epi (looked at solution)
+- started early
+- minimal distraction. Wifi off worked very well.
+- gym with time to spare
+- time-blocking seems to help me get more done with the same time available
+- got frustrated, recognized it, and responded constructively 2x:
+    - went for a walk
+    - took a nap
+
+Pretty solid day. I'll copy today's schedule for tomorrow
+
+# 03-26-21
+
+## CBT
+
+### Biased Thought
+- I'm unworthy of success
+
+I have had this belief for a long time. It came about as a result of continual negative experiences in my childhood. I need to unlearn this belief. 
+
+#### Cognitive Distortions
+
+##### mental filter
+- I'm filtering out all the good I've done: Rob, Jonah, Kennly, UT bootcamp students
+- success is a byproduct of helping others. If I cannot experience success, helping others is unsustainable.
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+- I'm minimizing all the good I've done and hope to do.
+### Reworded Thought
+I may sometimes feel I don't deserve success, but I have helped people in the past. And, I have the capacity to help many more. Success will come the more people I help. 
+
+If I cannot experience success, I also cannot help others. 
+
+THerefore, I am worthy of success because I will/have helped many others. 
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build a family foundation on Amazon salary
+- opportunity to overcome health issues
+
+- meditate
+
+## Schedule & Distraction Log
+
+8-9       : morning routine (jog, brush, shower, coffee)
+9-10      : leetcode 1
+10-10.5   : solution
+10.5-11.5 : epi 1
+11.5-12.5 : solution
+12.5-1.5  : epi 2
+1.5-2     : solution
+2-3       : epi 3
+3-3.5     : solution
+3.5-4.5   : epi 4
+4.5-5     : solution
+5-6       : workout
+6-6.5     : grab dinner
+6.5-7     : shower
+7-9       : office hours
+9-10      : elm code wars
+10-11     : audiobook; brush teeth
+11        : bedtime
+            
+### revision
+
+8-9       : morning routine (jog, brush, shower, coffee)
+9-10      : 
+10-10.5   : 
+10.5-11.5 : 
+11.5-12.5 : 
+12.5-1.5  : 
+1.5-2     : 
+2-3       : leetcode 1
+3-3.5     : solution
+3.5-4.5   : leetcode 2 (need more tree practice)
+4.5-5     : solution
+5-6       : workout (bring bag)
+6-6.5     : buy eggs, pimienta, avocados
+6.5-7     : shower
+7-9       : office hours
+9-10      : dinner
+10-11     : audiobook; brush teeth
+11        : bedtime
+
+It feels good to own up to my mistakes and debug why/how I can solve them.
+
+I gained a valuable insight about my "unworthy of success" belief. I wouldn't know I had this belief unless I examined my thoughts.
+
+This was an incredibly valuable introspective exercise.
+            
+            
+            
+### revision
+got distracted as soon as I turned wifi on
+            
+            
+
+
+
+
+
+
+
+
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-28-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-29-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+- 4 leetcode
+- meditate
+- gym
+- no sugar
+- midnight bedtime
+
+## Schedule & Distraction Log
+11-12    : leetcode 1
+12-12.5  : solution
+12.5-1.5 : leetcode 2
+1.5-2    : solutin
+2-3      : leetcode 3
+3-3.5    : solution
+3.5-4.5  : leetcode 4
+4.5-5    : solution
+5-6      : gym
+6-6.5    : shower
+6.5-7    : grab tacos
+11-12    : audiobook; brush teeth
+12       : bedtime
+
+### revision 
+I really need a leetcode cli that allows me to cache questions. THis would make it simple to go no-wifi.
+
+I went down a defi rabbit hole
+
+12-1    : leetcode 1
+1-1.5  : solution
+1.5-2.5 : leetcode 2
+2.5-3    : solutin
+3-4      : leetcode 3
+4-4.5    : solution
+4.5-5.5  : leetcode 4
+5.5-6    : solution
+6-7      : gym
+7-7.5    : shower
+7.5-8    : grab tacos
+11-12    : audiobook; brush teeth
+12       : bedtime
+
+### revision
+feeling a bit discouraged by failing a problem. I need to suspend my disbelief and remain confident that I will get it eventually.
+
+2.5-3.5  : leetcode 2
+3.5-4    : solution
+4-5      : leetcode 3
+5-6      : gym
+6-6.5    : grab dinner; shower
+6.5-9    : class; solution 2; leetcode 3
+9-9.5    : solution 3
+9.5-10.5 : audiobook/brush teeth
+11       : bed
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 03-30-21
+a good start to the day:
+- run
+- coffee
+- 3 problem leetcode quiz
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+- 4 epis
+- 5 hours study
+- 30 min meditate
+
+## Schedule & Distraction Log
+11-12: epi 1
+12-12.5: solution 1
+12.5-1.5: epi 2
+1.5-2: solution 2
+2-3: epi 3
+3-3.5: solution 3
+3.5-4.5: epi 4
+4.5-5: solution 4
+5-6: gym
+6-7.5: dinner/shower
+
+### revision
+I lost track of time. Great start to the day, but poor follow through. 
+
+If I'm not aware of how/why I'm spending my time, I will follow the path of least resistance (twitter/youtube).
+
+happened yet again. Damn haha. -> wifi off strategy is an answer to this unaware browsing.
+
+If I strictly enforce no wifi periods, I don't need to worry about tangents/rabbit-holes
+
+4-5.5     : epi 1
+5.5-6     : solution 1
+5.5-6.25  : gym/shower
+6.5-9.5   : class; 1 leetcode
+9.5-10.5  : dinner/shower
+10.5-11.5 : epi 2
+11.5-12   : solution 2
+
+## Batched Internet Searches
+
+## Recap
+It was an ok day:
+- great morning
+- awful midday
+- decent evening
+
+Terrible midday because I fell off on too many youtube/twitter tangents. Either wifi off or a leetcode cli would really help.
+
+
+Results:
+- 4 leetcode (could've been 6)
+- 1 epi (looked at solution)
+
+Goals
+- 5 hours study
+- 3 epi
+- gym
+
+# 03-31-21
+decent start to the day, but tailed off a bit:
+- jog
+- coffee
+- 2 problems early in the day
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+- mediate
+- 5 hours study
+- 3 epi
+- gym
+
+
+## Schedule & Distraction Log
+1.5-3   : optimize morning leetcodes
+3-4     : epi 1
+4-4.5   : solution 1
+4.5-5.5 : gym/shower
+6.5-9   : class; 1 leetcode
+9-10    : dinner
+10-11   : meat/pepper/avocados?epi2?
+11-12   : audiobook; brushteeth
+12      : bedtime
+
+### revision 
+getting back on track. Feel great after meditation. Maybe I can insert that at times I know I tend to struggle concentrating. For example, after the morning leetcode quiz. 
+
+Also, adding urgency will make twitter/youtube more uncomfortable.
+
+
+3.5-4.5 : optimize morning leetcodes
+4.5-5   : epi 1
+5-6     : gym/shower
+6.5-9   : class; solution 1; 1 epi
+9-10    : dinner
+10-11   : meat/pepper/avocados?epi2?
+11-12   : audiobook; brushteeth
+12      : bedtime
+          
+
+## Batched Internet Searches
+
+## Recap
+- great start of day
+- poor middle
+- decent end
+
+I'm consistently struggling in middle of the day. What if I plan my meditation for when I'm starting to fade?
+
+Schedule:
+: 3 heap q quiz
+10.5-11.5: epi
+11.5-12: solution
+12-12.5: meditate
+6.5-9: class; 1 leetcode
+
+# 04-02-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- set up eidl autopay
++ meditate
+
+## Schedule & Distraction Log
+11.5-12: meditate
+12-1: epi 1
+1-1.5: solution 1
+1.5-2.5: epi 2
+2.5-3: solution 2
+3.5-5.5: vanderbilt OH
+5.5-7: gym/shower
+7-9: UT OH
+9-10: dinner
+
+### revision
+I'm feeling the anxiety as I try to start. Here's my checklist to go through when I recognize it:
+- journal/feelings debug
+- break problem into chunks
+- meditate
+- take a walk
+- take a nap
+- switch subjects
+
+I'm feeling a bit anxious after failing the logic quiz. I know there's room for improvement. But, it may feel frustratingly slow in the short-term.
+
+2-3     : epi 1
+3-3.5   : solution 1
+3.5-5.5 : vanderbilt OH
+5.5-7   : gym/shower
+7-9     : UT OH
+9-10    : dinner
+10-11   : epi 2
+11-11.5 : solution 2
+
+#### Goal Breakdown
+- get comfortable with individual functions
+- get comfortable with overall logic
+- implement algo
+
+the goal breakdown totally worked! It lowered the starting friction and I quickly breezed through to implementation. 
+
+I'm going to do that more: journal a goal breakdown/feelings debug
+## Batched Internet Searches
+
+## Recap
+
+
+# 04-03-21
+I'm happy with how writing about anxiety/goal-breakdown worked to get me back on track yesterday. I'm going to double down. 
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 04-07-21
+I fell off on journalling for a few days. I did do some meditation, which made me feel great. 
+
+It's up to me now to buckle down for 12 hour days. 5-10 problems solved. I know I can do it. 
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+- 5 hours study
+- 5 leetcode 
++ meditate
+
+## Schedule & Distraction Log
+10-11     : leetcode mock OA
+11-11.5   : solutions
+11.5-12.5 : epi solution
+12.5-1    : leetcode (move back to room)
+1-2       : bandwidth Jeff Turner
+2-3       : epi 2
+3-3.5     : epi solution
+3.5-4     : leetcode
+4-4.5     : craftable with Max Zats
+5-7       : columbia office hours (post zoom link in slack); lc solution
+7-8       : gym
+8-9       : dinner/shower
+9-10      : epi 3
+10-10.5   : epi 3 solution
+10.5-11.5 : audiobook; brush teeth; wifi off
+## Batched Internet Searches
+
+## Recap
+I got a surprising amount done despite one of my busiest days in terms of other commitments. 
+
+A combination of:
+- pressure to deliver
+- planning
+
+Seems to bring out the best in me.
+
+Let's continue the success from yesterday today. First step is setting up a schedule. Then ruthlessly executing on it. You got this dawg.
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+- 5 hours deep work
+- 3 leetcode
+- 2 epi
++ meditate
+
+## Schedule & Distraction Log
+10.5-11.5 : mock phone screen
+11.5-12   : solutions
+12-1      : epi 1
+1-1.5     : solution 1
+1.5-2.5   : epi 2
+2.5-3     : solution 2
+3-3.5     : meditate
+3.5-4.5   : epi 3
+4.5-5     : solution 3
+5-6       : gym/shower
+6-6.5     :
+6.5-9     : class; 1 leetcode
+9-10      : dinner
+
+#### Goal Breakdown
+I'm feeling anxious about starting. I've caught myself before Youtubing. Now, let's break down this mock phone screen to more manageable chunks:
+- do 1 leetcode easy
+- hop into mock phone screen
+
+Nice job dude :)
+## Batched Internet Searches
+
+## Recap
+
+
