@@ -1142,30 +1142,30 @@ I've got a couple opportunities floating around in my head-short and long term. 
     - 3 problems studied
 
 # 03-01-21
-    Realizing I got a bit more done yesterday than I thought. The process of making flashcards helps solidify concepts. 
+Realizing I got a bit more done yesterday than I thought. The process of making flashcards helps solidify concepts. 
 
-    I'm feeling invigorated today. I'm ready to get closer to proving my friends and family can rely on me. 
+I'm feeling invigorated today. I'm ready to get closer to proving my friends and family can rely on me. 
 
-    I'm getting a gym membership friday, which means I'll be studying:
-    - 6
-    - 8
-    - 10
-    - 10
-    - 10
-    total 44 hours
+I'm getting a gym membership friday, which means I'll be studying:
+- 6
+- 8
+- 10
+- 10
+- 10
+total 44 hours
 
-    I like the no caffeine/nap strategy. I think the naps help move things subconsciously. This brings insight quicker. I also have evidence from Puerto Escondido that I can get things done.
+I like the no caffeine/nap strategy. I think the naps help move things subconsciously. This brings insight quicker. I also have evidence from Puerto Escondido that I can get things done.
 
 
-    Be aware of distraction. When you notice it, try to to mini-meditate. And, full meditation if neeeded. 
+Be aware of distraction. When you notice it, try to to mini-meditate. And, full meditation if neeeded. 
 
-    I'm weak with binary trees. I think I should spend more time on them. 
+I'm weak with binary trees. I think I should spend more time on them. 
 
-    Decent start to the day. Now, let's keep it rollin.
+Decent start to the day. Now, let's keep it rollin.
 
-    Slipping a bit, but eye still on the prize. Let's get it!
+Slipping a bit, but eye still on the prize. Let's get it!
 
-    It's a long slog towards the end of the day. Gotta keep going!
+It's a long slog towards the end of the day. Gotta keep going!
 
 My cortisol is noticably lower without coffee (I think?)
 
@@ -2871,9 +2871,581 @@ I'm feeling anxious about starting. I've caught myself before Youtubing. Now, le
 
 Nice job dude :)
 
+### revision
+semi productive distraction with dp. I'm not learning it right now, so I'm going to throw it on queue to process when I get to that chapter.
+
+12.5-1.5 : mock phone screen
+1.5-2    : solutions
+2-3      : epi 1
+3-3.5    : solution 1
+3.5-4.5  : epi 2
+4.5-5    : solution 2
+5-6      : gym/shower
+6-6.5    : meditate
+6.5-9    : class; 1 leetcode
+9-10     : dinner
+10-11    : epi 3
+11-11.5  : solution 3
+11.5-12  : audiobook; wifi-off
+
+not far off from target
+
+### revision
+got off track as I missed one problem. I get anxious thinking about the extra time needed to revise an incorrect solution. 
+
+I should be happy to revise because that's how I learn a new trick to apply to similar problems.
+
+### revision
+It's a better use of my time to spend time learning tricks from problems I miss than powering through and failing many problems. I'm adjusting my schedule accordingly
+
+12.5-1.5 : mock phone screen
+1.5-2    : solutions
+2-3      : epi 1
+3-5      : solution 1
+5-6      : gym/shower
+6-6.5    : meditate
+6.5-9    : class; 1 leetcode
+9-10     : dinner
+10-11    : epi 2
+11-11.5  : solution 2
+11.5-12  : audiobook; wifi-off
+
 ## Batched Internet Searches
 
 ## Recap
 
 
+
+
+# 04-10-21
+I have to rebuild my resilience to adversity. I got flustered again today after being stumped. I think I can do that by:
+- meditating more
+- consistently pushing my reistance limits
+- reread the war of art
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+| time    | task      |
+| ---     | ---       |
+| 5.5-6.5 | epi 1     |
+| 6.5-7   | sol 1     |
+| 7-8     | epi 2     |
+| 8-8.5   | sol 2     |
+| 8.5-9.5 | epi 3     |
+| 9.5-10  | sol 3     |
+| 10-11   | dinner    |
+| 11-12   | audiobook |
+
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+Goals tomorrow:
+- 8 epi tomorrow
+- 8 hours studying
+
+
+# 04-11-21
+Feeling good after the meditation. Ready to tackle these leetcodes. And persevere through resistance. 
+
+It's cool to look back at my mind-state in the past. And to check on whether I hit my goals. Still more work to do..
+
+I'm falling in too many rabbit holes. Turning wifi off.
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build a family foundation on a SWE salary
+- opportunity to overcome health issue
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+work on using the batched header. Must avoid getting sucked into rabbit holes.
+### Goal Breakdown
+
+## Batched Internet Searches
+- double check that bandwidth has confirmed for interview tomorrow
+- in general, check for open source apps I can slap on my domains
+- when there's time, slap an open source job board on:
+    - kotlinfreelancer.com
+    - scalafreelancer.com
+
+## Recap
+
+
+# 04-13-21
+a bit of a slow start today. I'm going to focus on going to bed at the same time each night. Also continue to hit the gym regularly
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+- 3 epi
+- 6 hours deep work
+
+## Schedule & Distraction Log
+
+10.5-11.5 : epi 1
+11.5-12.5 : sol 1
+12.5-1.5  : epi 2
+1.5-2.5   : sol 2
+2.5-3.5   : epi 3
+3.5-4.5   : sol 3
+4.5-5     : ocaml cw
+5-6       : gym
+6.5-9     : class; 1 leetcode
+9-10      : dinner
+10-11     : audiobook
+
+### revision
+Got distracted with a java interview. Was that a waste of time? Yes because I will be interviewing in python. 
+
+It's fine to take a java test, but shouldn't waste time preparing for it.
+
+2.5-3.5 : epi 1
+3.5-4.5 : sol 1
+4.5-5   : ocaml cw
+5-6     : gym
+6.5-9   : class; 1 leetcode
+9-10    : dinner
+10-11   : audiobook
+11      : bedtime
+### revision
+Having a rough go of it today. It didn't start off as I'd like. Then I started ruminating without meditation/cbt. This derailed the rest of the day.
+
+Key points:
+- when you recognize frustration growing, address it: cbt, meditation
+- then strategize to get back on track:
+    - goal breakdown
+    - walk
+    - nap
+Great job getting back on track dude. Salvaging a day is much better than taking a 0.
+Really great job dude. You stopped the bleeding. Now we can grind our way back. You got this dawg!!
+### Goal Breakdown
+Feeling slightly overwhelmed. Going to get warmed up with a small problem to start.
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 04-16-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+- make recruiter template email
+
+## Schedule & Distraction Log
+
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+I'm not happy with my work output today. But it's also tough when you're day is broken up with meetings. 
+
+I'm going to start tracking my time spent studying to better understand how my output is changing over time.
+
+# 04-17-21
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 04-23-21
+Hola journal, been a while. Coming to you because I will need you to stay focused for 2 weeks. I want to dial everything in and give myself the best shot to crush that test. 
+
+If I finish 3 epis per day, I'll have covered everything that could come up in the test. Here's what I promise myself I'll do daily for the next 2 weeks:
+- wake up at 6am
+- brew coffee && meditate 15 min
+- 6 hours deep work per day
+- If stuck:
+    - journal and break down big problems
+    - walk
+    - meditate
+    - nap
+    - switch subjects 
+- workout at 5pm
+- no wifi after 9pm
+- bed at 10:30pm
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 04-24-21
+Tough start to the day. But going to the make the most of the rest of it. My health is so much better when I'm working out. I'm making time to read squat chapter tonight.
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+- 3 videos 
+- read squat chapter
+
+## Schedule & Distraction Log
+
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 04-25-21
+It's tough staying focused, but i know I must. This is my shot. Literally the Lose Yourself.
+
+I have the opportunity to:
+- correct current trajectory. It's to grow old alone.
+- Be a light to friends and family (natalie, mom, jonah/fam)
+- Be proud of myself
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+
+## Goals
+
+- meditate
+- 3 videos 
+## Schedule & Distraction Log
+4-5      : 14.1
+5-6.5    : gym
+6.5-7.5  : 14.2
+7.5-8    : solution
+8-9      : 14.3
+9-9.5    : solution
+9.5-10.5 : dinner; bed
+
+### revision
+I must do better. I've gotten some things done:
+- found a way to print bsts
+- fixed tmux
+
+But my main goal is 3 videos today. So far, 0.5. Must do better.
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+Today was rough. I struggles with BSTs even though I did a lot of those problems. 
+
+I can recover, but I'm way behind pace. I wanted 6 done, but I have 3.
+
+I did boost productivity today. This should help a bit in the future. 
+
+Bottom line is, I'm missing expectations. So I need to get more out of each day. 
+
+# 04-27-21
+I got a decent amount of hours in yesterday. Not as many problems as I'd like, but hopefully they will come if continue this pace. 
+
+I've felt tempted this morning to procrastinate. Let's nip it in the bud with some meditation. I've stayed strong so far. 
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+- opportunity to build a future on SWE salary
+- opportunity to start my own company
+- opportunity to overcome health issues
+
+## Goals
+
+- meditate
+- 10 hours deep work
+- 3 epi
+
+## Schedule & Distraction Log
+6-9   : n queens
+9-10  : sol
+10-12 : count score combinations
+12-1  : solution
+1-3   : levenshtein distance
+3-4   : solution
+
+### Goal Breakdown
+I didn't catch a high anxiety moment. It's ok, Ill get the next one. And I'm handling it now.
+
+Ok, n queens is tough. here's how I'll break it down:
+- work n =3 and n = 4 examples
+- reimplement from memory
+- film youtube video
+
+## Batched Internet Searches
+- Video idea: Como apprender ingles con youtube
+- bittorrent distributed systems tutorial
+- crypto distributed systems tutorial
+
+## Recap
+
+
+# 04-30-21
+I've been stymied by graph problems. I struggle to do a problem, get frustrated, and fall off track. 
+
+I know it will be frustrating. I need work on my plan for handling it when it comes. 
+## CBT
+
+### Biased Thought
+I failed this problem. That means I'm dumb and I'll fail all my interviews
+#### Cognitive Distortions
+
+##### mental filter
+I'm focused on the negative feelings I'm experiencing in the moment. I'm not considering the the 200 other problems I've solved previously. Or the same frustration I had learning other new topics.
+##### overgeneralization
+I'm letting a negative experience with 1/200 problems color my thoughts on my overall ability.
+
+##### catastrophizing
+I assume I'll fail. But what if I continue to improve? Push through the adversity til I understand?
+##### minimizing the positive
+I'm not considering the 200 other solved problems in the past.
+### Reworded Thought
+I'm struggling with graph problems right now. But I've solved 200 problems in the past. And I've struggled and conquered other difficult topics, like recursion. With time and practice, I'll conquer graph problems too.
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build a family foundation on Amazon salary
+- 
+## Goals
+
+- meditate
+
+## Schedule & Distraction Log
+
+### Goal Breakdown
+
+## Batched Internet Searches
+
+## Recap
+
+
+# 05-01-21
+I'm feeling a bit burned out with leetcode. But, I'm also nearing the finish line. I think changing things up will help reinvigorate myself. 
+
+
+## CBT
+
+### Biased Thought
+
+#### Cognitive Distortions
+
+##### mental filter
+
+##### overgeneralization
+
+##### catastrophizing
+
+##### minimizing the positive
+
+### Reworded Thought
+
+## 3 things I'm Grateful for
+- opportunity to be a light to friends and family
+- opportunity to build pride for challenges conquered
+- opportunity to build a family foundation on a solid salary
+
+## Goals
+
+- meditate
+- 5 hours deep work
+- 4 leetcodes
+
+## Schedule & Distraction Log
+8-9     : OA
+9-10    : sols
+10-11   : OA
+11-12   : sols
+12-1    : OA
+1-2     : sols
+2-3     : OA
+3-4     : sols
+4-5.5   : workout/shower
+5.5-7.5 : read squats
+
+### Distraction gameplan
+- breathe, deeply
+- breakdown into chunks
+- pushups
+- walk
+- nap
+- switch context
+### Goal Breakdown
+### Frustration Log
+I'm feeling frustrated that I'm not getting this problem and I'm wasting time. It's unlikely to be in the interview and an explanation for how to solve is 80/20 solution.
+
+Cool, now I see it's time to move on
+## Batched Internet Searches
+
+## Recap
 
