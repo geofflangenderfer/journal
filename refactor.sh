@@ -1,12 +1,3 @@
-#!/usr/bin/env bash
-
-
-# whatever echo ~ evaluates to on your machine
-journal_file_location=~/work/journal/journal.md
-
-# update to nano, for example
-editor=nvim
-
 entry=$(cat << EOF
 \n# $(date +%m-%d-%y)          
 \n## CBT                       
@@ -29,23 +20,4 @@ entry=$(cat << EOF
 EOF
 )
 
-if test -f $journal_file_location
-then
-  todays_date_count=$(grep -c "# $(date +%m-%d-%y)" $journal_file_location) 
-else
-  # trigger the echo block if file doesn't exist
-  todays_date_count=0
-fi
-
-if [ "$todays_date_count" -eq 0 ]
-then
-  echo -e $entry >> $journal_file_location
-fi
-
-
-# open journal wherever you are. Neat right?
-$editor $journal_file_location
-
-
-
-
+echo -e "$entry"
