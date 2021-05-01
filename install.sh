@@ -4,3 +4,4 @@
 local_executable_directory=/usr/local/bin
 
 sudo cp journal $local_executable_directory/journal
+touch journal.md
