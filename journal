@@ -2,7 +2,7 @@
 
 
 # modify this to desired location
-journal_file_location=~/work/journal/journal.md
+journal_file_location=~/work/private_journal/journal.md
 
 # update to nano or code, for example
 editor=nvim
