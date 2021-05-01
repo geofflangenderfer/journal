@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 
-# whatever echo ~ evaluates to on your machine
+# modify this to desired location
 journal_file_location=~/work/journal/journal.md
 
-# update to nano, for example
+# update to nano or code, for example
 editor=nvim
 
 entry=$(cat << EOF
@@ -29,14 +29,15 @@ entry=$(cat << EOF
 EOF
 )
 
+# is there daily entry?
 if test -f $journal_file_location
 then
   todays_date_count=$(grep -c "# $(date +%m-%d-%y)" $journal_file_location) 
 else
-  # trigger the echo block if file doesn't exist
   todays_date_count=0
 fi
 
+# add daily entry if not present
 if [ "$todays_date_count" -eq 0 ]
 then
   echo -e $entry >> $journal_file_location
