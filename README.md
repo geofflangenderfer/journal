@@ -11,6 +11,13 @@ Makes the next entry easy.
 
 ## Install
 ```bash
-# moves journal to the local executable folder in ubuntu linux
+# moves journal to the local executable folder in mac/linux
 $ bash install.sh
 ```
+
+## Usage
+You can type the following where ever you are!
+```bash
+$ journal
+```
+
