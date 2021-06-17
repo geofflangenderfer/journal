@@ -18,6 +18,11 @@ entry=$(cat << EOF
 \n##### minimizing the positive
 \n### Reworded Thought         
 \n## 3 things I'm Grateful for 
+\n## issues
+\n### issue
+\n- worry:
+\n- desired outcome:
+\n- next step:
 \n## procrastination
 \n### avoided
 \n### succumbed
