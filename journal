@@ -17,7 +17,7 @@ entry=$(cat << EOF
 \n##### catastrophizing        
 \n##### minimizing the positive
 \n### Reworded Thought         
-\n## 3 things I'm Grateful for 
+\n## 3 things I\'m Grateful for 
 \n## issues
 \n### issue
 \n- worry:
@@ -33,7 +33,14 @@ entry=$(cat << EOF
 \n### Frustration Log          
 \n### Distraction Log          
 \n## Batched Internet Searches 
+\n##75 hard
+\n[] 5 hours of focused work 
+\n[] one of: 30 min cardio, heavy weights, pushups/pullups/situps 
+\n[] 1/2 gallon of water
+\n[] in bed by 10pm
+\n[] < 20g sugar
 \n## Recap\n                   
+
 EOF
 )
 
@@ -48,13 +55,9 @@ fi
 # add daily entry if not present
 if [ "$todays_date_count" -eq 0 ]
 then
-  echo -e $entry >> $journal_file_location
+  printf "$entry" >> $journal_file_location
 fi
 
 
 # open journal wherever you are. Neat right?
 $editor $journal_file_location
-
-
-
-
