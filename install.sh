@@ -15,7 +15,8 @@ do
 done
 
 cp journal $local_executable_directory/journal
-echo 'export PATH="~/.local/bin/:$PATH"' >> ~/.zshrc
-touch $(echo $desired_journal_location)/journal.md
+shell_name="$(basename $(echo $SHELL))"
+echo 'export PATH="~/.local/bin/:$PATH"' >> ~/."$shell_name"rc
+touch $(echo $desired_journal_directory)/journal.md
 
 
