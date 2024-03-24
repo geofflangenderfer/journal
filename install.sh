@@ -2,12 +2,12 @@
 
 # this may be different on mac/windows
 local_executable_directory=~/.local/bin/
-desired_journal_location=~/work/private_journal/
+desired_journal_directory=~/personal/private_journal/
 
  
-for dir in $local_executable_directory $desired_journal_location
+for dir in $local_executable_directory $desired_journal_directory
 do
-    # if the directory doesn't exist
+    # if the directory doesn't exist, create it
     if ! test -d $dir
     then
         mkdir -p $dir
